@@ -6,6 +6,15 @@
 
 RippleR is an R package for concentric-circle based spatial analysis of Xenium and Giotto spatial transcriptomics datasets.
 
+# Affiliation
+
+RippleR was developed by Yee Hoon Foong in the Herati Lab.
+
+Related laboratory software and projects are available through the teamTfh GitHub organization:
+
+https://github.com/teamTfh
+
+
 ## Installation
 
 ```r
