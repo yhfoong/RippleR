@@ -9,7 +9,7 @@ RippleR is an R package for concentric-circle based spatial analysis of Xenium a
 ## Installation
 
 ```r
-remotes::install_github("foongy02/RippleR")
+remotes::install_github("yhfoong/RippleR")
 ```
 
 ## Features
