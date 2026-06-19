@@ -1,6 +1,11 @@
 ---
 
-## output: github_document
+output: github_document
+
+<p align="center">
+  <img src="man/figures/RippleR_logo.png" width="250">
+</p>
+
 
 # RippleR
 
