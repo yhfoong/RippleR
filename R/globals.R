@@ -1,0 +1,22 @@
+utils::globalVariables(
+  c(
+    "x.coord.shift",
+    "x.coord",
+    "y.coord",
+    "radius",
+    "radius.concentric.sf",
+    "concentric_circles_sf",
+    "center_point_sfc",
+    "distance.group",
+    "gobject",
+    "xenium.obj",
+    "radius_group_label",
+    "Gene.Count",
+    "Gene.sum",
+    "radius.num",
+    "n",
+    "Genes.sum.normalized.total.cells",
+    "orig.ident",
+    "Gene"
+  )
+)

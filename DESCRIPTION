@@ -1,0 +1,37 @@
+Package: RippleR
+Title: Spatial Ripple Analysis for Giotto and Xenium Objects
+Version: 0.1.0
+Authors@R:
+    person(
+      given = "Yee Hoon",
+      family = "Foong",
+      email = "yeehoon.foong@gmail.com",
+      role = c("aut", "cre")
+    )
+Description:
+    Provides tools for tumor-centered concentric-circle analysis
+    of spatial transcriptomics data. Functions support generation
+    of concentric circles, spatial radius annotation, peritumoral
+    region labeling, visualization, and radius-based gene expression
+    analysis for Giotto and Xenium objects.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2,
+    sf,
+    viridis,
+    rlang,
+    Giotto,
+    Seurat,
+    SeuratObject,
+    forcats,
+    stringr,
+    tibble
+Suggests:
+    future,
+    parallelly,
+    data.table
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
