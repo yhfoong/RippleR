@@ -1,12 +1,4 @@
 ---
-
-output: github_document
-
-<p align="center">
-  <img src="man/figures/RippleR_logo.png" width="250">
-</p>
-
-
 # RippleR
 
 RippleR is an R package for concentric-circle based spatial analysis of Xenium and Giotto spatial transcriptomics datasets.
